@@ -1,0 +1,2 @@
+# aimagister
+An AI teacher
